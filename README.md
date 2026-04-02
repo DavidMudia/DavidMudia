@@ -3,7 +3,6 @@ Hi, I'm Oyedoh David Mudia 👋
 Cybersecurity Engineer | Web Developer
 
 
-ABOUT ME
 I build and secure web applications, with a strong focus on web security, penetration testing, and system analysis.
 I am committed to continuously improving my skills through hands-on experience with real-world labs and vulnerability testing. 
 
